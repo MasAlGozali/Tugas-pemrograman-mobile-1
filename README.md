@@ -77,19 +77,16 @@
 
 ## Hasil Project
 
-### Tampilan Aplikasi AntriKeun.id
+### Tampilan Aplikasi catatan harian mas al
 
 #### Tampilan Header
-![Tampilan Header](https://github.com/BayuAjiPrayoga/AntriKeun.id-Mobile-1/blob/main/antrikeun.png)
+![Tampilan Header](https://github.com/MasAlGozali/Tugas-pemrograman-mobile-1/blob/main/image.png)
 
 #### Tampilan Awal Aplikasi
-![Tampilan Awal](https://github.com/BayuAjiPrayoga/AntriKeun.id-Mobile-1/blob/main/gambar1.jpg)
+![Tampilan Awal](https://github.com/MasAlGozali/Tugas-pemrograman-mobile-1/blob/main/90a7b10f-efed-4edd-9c1f-5e3ff79097ec.jpg)
+#### Tampilan akhir
+![Tampilan akhir](https://github.com/MasAlGozali/Tugas-pemrograman-mobile-1/blob/main/e19ac11c-2b36-4ee8-9022-ae3dff475b86.jpg)
 
-#### Tampilan Memilih Waktu Antrian
-![Tampilan Waktu Antrian](https://github.com/BayuAjiPrayoga/AntriKeun.id-Mobile-1/blob/main/gambar2.jpg)
-
-#### Tampilan Pop-Up Konfirmasi Booking
-![Tampilan Pop-Up Booking](https://github.com/BayuAjiPrayoga/AntriKeun.id-Mobile-1/blob/main/gambar3.jpg)
 
 ---
 
